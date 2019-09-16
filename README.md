@@ -1,0 +1,1 @@
+NodeJS sample app to understand the REST APIs, testing with Jest and Supertest.
